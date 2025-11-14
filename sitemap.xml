@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
+    <loc>https://shaylink.github.io/about.html</loc>
     <lastmod>2025-11-03T15:51:26.943Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2025-11-03T15:51:26.941Z</lastmod>
+    <loc>https://shaylink.github.io/posts/the-manning-dynasty/index.html</loc>
+    <lastmod>2025-11-14T20:34:04.967Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2025-11-03T15:51:26.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
+    <loc>https://shaylink.github.io/index.html</loc>
     <lastmod>2025-11-03T15:54:07.527Z</lastmod>
   </url>
 </urlset>
