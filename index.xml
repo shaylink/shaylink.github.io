@@ -21,7 +21,7 @@
 
 
 
-<p>Arch Manning continues to be one of the most discussed young quarterbacks in college football, largely due to his last name and the expectations surrounding him. However, his on-field performance tells a more measured story. Manning has shown flashes of growth and reliability, but he still sits in the middle of the pack compared to other SEC quarterbacks. His numbers suggest a player who is developing steadily, balancing solid decision-making with areas that still need refinement as he gains more experience. Overall, his name is his fame, and his stats don’t show the real hype that people think he has.</p>
+<p>Arch Manning continues to be one of the most discussed young quarterbacks in college football, largely due to his last name and the expectations surrounding him. Manning’s actual on-field results paint a more grounded picture. He’s had moments where he looks like he’s improving, but he still ranks around the middle compared to the rest of the SEC quarterbacks. His stats show a player who’s growing and learning, with decent decision-making but plenty of room to sharpen his game as he gets more reps. At the end of the day, his last name carries most of the hype because the numbers don’t quite match the buzz around him.</p>
 <p>When you look past the hype and break Arch Manning down by the numbers, a clearer picture starts to form. Arch isn’t carrying Texas, but he isn’t dragging them down either. The table shows where Arch ranks among the SEC’s top 10 quarterbacks across key efficiency metrics like yards per game, completion percentage, etc. And the takeaway is pretty simple. Arch consistently lands right in the middle.</p>
 <p>He’s not touching the conference leaders like Joey Aguilar or Ty Simpson, who push the SEC’s top end in yards and touchdown percentage. But he’s also nowhere near the bottom in the categories that signal real problems, like turnovers or low completion rates. Arch essentially blends into the pack.</p>
 <p>This is important context for evaluating Texas’s offense overall. The numbers suggest that Arch isn’t the reason Texas thrives, but he also isn’t the reason they struggle. He’s solid, steady, and fine, but obviously not exceptional. And seeing that in this conference, where great quarterbacks play often makes the difference between “fine” and “great”, and fine doesn’t cut it.</p>
@@ -739,23 +739,23 @@ font-style: inherit;">2</span></span>
 <span id="cb1-113">    ))</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
-<div id="ujjkuzdupu" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#ujjkuzdupu table {
+<div id="xdrzrjxvon" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#xdrzrjxvon table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#ujjkuzdupu thead, #ujjkuzdupu tbody, #ujjkuzdupu tfoot, #ujjkuzdupu tr, #ujjkuzdupu td, #ujjkuzdupu th {
+#xdrzrjxvon thead, #xdrzrjxvon tbody, #xdrzrjxvon tfoot, #xdrzrjxvon tr, #xdrzrjxvon td, #xdrzrjxvon th {
   border-style: none;
 }
 
-#ujjkuzdupu p {
+#xdrzrjxvon p {
   margin: 0;
   padding: 0;
 }
 
-#ujjkuzdupu .gt_table {
+#xdrzrjxvon .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -781,12 +781,12 @@ font-style: inherit;">2</span></span>
   border-left-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_caption {
+#xdrzrjxvon .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#ujjkuzdupu .gt_title {
+#xdrzrjxvon .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -798,7 +798,7 @@ font-style: inherit;">2</span></span>
   border-bottom-width: 0;
 }
 
-#ujjkuzdupu .gt_subtitle {
+#xdrzrjxvon .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -810,7 +810,7 @@ font-style: inherit;">2</span></span>
   border-top-width: 0;
 }
 
-#ujjkuzdupu .gt_heading {
+#xdrzrjxvon .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -822,13 +822,13 @@ font-style: inherit;">2</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_bottom_border {
+#xdrzrjxvon .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_col_headings {
+#xdrzrjxvon .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -843,7 +843,7 @@ font-style: inherit;">2</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_col_heading {
+#xdrzrjxvon .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -863,7 +863,7 @@ font-style: inherit;">2</span></span>
   overflow-x: hidden;
 }
 
-#ujjkuzdupu .gt_column_spanner_outer {
+#xdrzrjxvon .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -875,15 +875,15 @@ font-style: inherit;">2</span></span>
   padding-right: 4px;
 }
 
-#ujjkuzdupu .gt_column_spanner_outer:first-child {
+#xdrzrjxvon .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ujjkuzdupu .gt_column_spanner_outer:last-child {
+#xdrzrjxvon .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ujjkuzdupu .gt_column_spanner {
+#xdrzrjxvon .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -895,11 +895,11 @@ font-style: inherit;">2</span></span>
   width: 100%;
 }
 
-#ujjkuzdupu .gt_spanner_row {
+#xdrzrjxvon .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#ujjkuzdupu .gt_group_heading {
+#xdrzrjxvon .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -925,7 +925,7 @@ font-style: inherit;">2</span></span>
   text-align: left;
 }
 
-#ujjkuzdupu .gt_empty_group_heading {
+#xdrzrjxvon .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -940,15 +940,15 @@ font-style: inherit;">2</span></span>
   vertical-align: middle;
 }
 
-#ujjkuzdupu .gt_from_md > :first-child {
+#xdrzrjxvon .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ujjkuzdupu .gt_from_md > :last-child {
+#xdrzrjxvon .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ujjkuzdupu .gt_row {
+#xdrzrjxvon .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -967,7 +967,7 @@ font-style: inherit;">2</span></span>
   overflow-x: hidden;
 }
 
-#ujjkuzdupu .gt_stub {
+#xdrzrjxvon .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -980,7 +980,7 @@ font-style: inherit;">2</span></span>
   padding-right: 5px;
 }
 
-#ujjkuzdupu .gt_stub_row_group {
+#xdrzrjxvon .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -994,15 +994,15 @@ font-style: inherit;">2</span></span>
   vertical-align: top;
 }
 
-#ujjkuzdupu .gt_row_group_first td {
+#xdrzrjxvon .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#ujjkuzdupu .gt_row_group_first th {
+#xdrzrjxvon .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#ujjkuzdupu .gt_summary_row {
+#xdrzrjxvon .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1012,16 +1012,16 @@ font-style: inherit;">2</span></span>
   padding-right: 5px;
 }
 
-#ujjkuzdupu .gt_first_summary_row {
+#xdrzrjxvon .gt_first_summary_row {
   border-top-style: none;
   border-top-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_first_summary_row.thick {
+#xdrzrjxvon .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#ujjkuzdupu .gt_last_summary_row {
+#xdrzrjxvon .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1031,7 +1031,7 @@ font-style: inherit;">2</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_grand_summary_row {
+#xdrzrjxvon .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1041,7 +1041,7 @@ font-style: inherit;">2</span></span>
   padding-right: 5px;
 }
 
-#ujjkuzdupu .gt_first_grand_summary_row {
+#xdrzrjxvon .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1051,7 +1051,7 @@ font-style: inherit;">2</span></span>
   border-top-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_last_grand_summary_row_top {
+#xdrzrjxvon .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1061,11 +1061,11 @@ font-style: inherit;">2</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_striped {
+#xdrzrjxvon .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ujjkuzdupu .gt_table_body {
+#xdrzrjxvon .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1074,7 +1074,7 @@ font-style: inherit;">2</span></span>
   border-bottom-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_footnotes {
+#xdrzrjxvon .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1088,7 +1088,7 @@ font-style: inherit;">2</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_footnote {
+#xdrzrjxvon .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1097,7 +1097,7 @@ font-style: inherit;">2</span></span>
   padding-right: 5px;
 }
 
-#ujjkuzdupu .gt_sourcenotes {
+#xdrzrjxvon .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1111,7 +1111,7 @@ font-style: inherit;">2</span></span>
   border-right-color: #D3D3D3;
 }
 
-#ujjkuzdupu .gt_sourcenote {
+#xdrzrjxvon .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1119,72 +1119,72 @@ font-style: inherit;">2</span></span>
   padding-right: 5px;
 }
 
-#ujjkuzdupu .gt_left {
+#xdrzrjxvon .gt_left {
   text-align: left;
 }
 
-#ujjkuzdupu .gt_center {
+#xdrzrjxvon .gt_center {
   text-align: center;
 }
 
-#ujjkuzdupu .gt_right {
+#xdrzrjxvon .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ujjkuzdupu .gt_font_normal {
+#xdrzrjxvon .gt_font_normal {
   font-weight: normal;
 }
 
-#ujjkuzdupu .gt_font_bold {
+#xdrzrjxvon .gt_font_bold {
   font-weight: bold;
 }
 
-#ujjkuzdupu .gt_font_italic {
+#xdrzrjxvon .gt_font_italic {
   font-style: italic;
 }
 
-#ujjkuzdupu .gt_super {
+#xdrzrjxvon .gt_super {
   font-size: 65%;
 }
 
-#ujjkuzdupu .gt_footnote_marks {
+#xdrzrjxvon .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#ujjkuzdupu .gt_asterisk {
+#xdrzrjxvon .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#ujjkuzdupu .gt_indent_1 {
+#xdrzrjxvon .gt_indent_1 {
   text-indent: 5px;
 }
 
-#ujjkuzdupu .gt_indent_2 {
+#xdrzrjxvon .gt_indent_2 {
   text-indent: 10px;
 }
 
-#ujjkuzdupu .gt_indent_3 {
+#xdrzrjxvon .gt_indent_3 {
   text-indent: 15px;
 }
 
-#ujjkuzdupu .gt_indent_4 {
+#xdrzrjxvon .gt_indent_4 {
   text-indent: 20px;
 }
 
-#ujjkuzdupu .gt_indent_5 {
+#xdrzrjxvon .gt_indent_5 {
   text-indent: 25px;
 }
 
-#ujjkuzdupu .katex-display {
+#xdrzrjxvon .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#ujjkuzdupu div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#xdrzrjxvon div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -1934,7 +1934,7 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>Overall, Arch Manning’s performance reflects a quarterback who is progressing but has not yet reached the elite status that people say he has. His efficiency, production, and consistency place him firmly between the conference’s standouts and the overlooked. Manning avoids major mistakes and demonstrates improvement over time, signalling potential for future growth. While he has not emerged as a dominant force in the SEC, his trajectory indicates that continued development could elevate him into a more impactful role for Texas and the seasons ahead. Maybe he’ll live up to the hype and his last name.</p>
+<p>Overall, Arch Manning’s performance reflects a quarterback who is progressing but has not yet reached the elite status that people say he has. Manning’s efficiency and output put him somewhere in the middle, not one of the SEC’s stars, but not someone who fades into the background either. He generally avoids big mistakes and has shown steady improvement, which points to real potential down the road. He’s not a dominant presence yet, but his development suggests he could grow into a bigger role for Texas as he gains experience. Maybe with time, he’ll live up to the hype that comes with his last name.</p>
 
 
 
