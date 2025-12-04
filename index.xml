@@ -21,8 +21,8 @@
 
 
 
-<p>The quarterback position in the NFL has changed a lot over the past decade. It used to be all about pocket passers who stayed planted behind the line and made their reads without ever moving much. But now, more teams are relying on quarterbacks who can take off and run when the play breaks down, or even on purpose. Players like Lamar Jackson, Jalen Hurts, and Josh Allen have shown how dangerous a mobile quarterback can be, turning broken plays into first downs and adding another layer defenses have to worry about.</p>
-<p>But that leads to a bigger question: Does being able to run actually make a quarterback better? Or is it just something that looks exciting on Sundays but doesn’t translate to more scoring or more wins? The first thing that stands out is the clear gap between the NFL’s top quarterbacks and everyone else. Lamar Jackson and Jayden Daniels finished far ahead of the pack, showing how much their teams rely on their legs. Behind them, players like Kyler Murray and Josh Allen use mobility more situationally but still put strong rushing numbers. Meanwhile, more traditional passers like Mahomes and Herbert are much lower on the list. Overall, you can see how running may impact the offense on the ground and have valuable the extra rushing threat can be.</p>
+<p>The quarterback role in the NFL has shifted a ton over the past decade. It’s not just about classic pocket passers anymore. Teams are leaning into quarterbacks who can actually move, guys who extend plays, escape pressure, and pick up yards when everything breaks down. Players like Lamar Jackson, Jalen Hurts, and Josh Allen have basically changed what people expect from the position. Defenses can’t just worry about the throw anymore; they have to account for the run game coming straight from the quarterback.</p>
+<p>The shift brings up a pretty big question: Does running actually make a quarterback better, or is it just something that looks cool on Sundays? When you look at today’s top quarterbacks, the difference in how much they rely on their legs is obvious. Some use rushing as a huge part of their game, while others only run when they absolutely have to. Then you’ve got the more traditional passers who barely take off at all. Seeing those differences makes it clear that mobility can change how an offense works. Whether it’s turning broken plays into first downs or just creating more things for a defense to worry about, the ability to run definitely adds something extra to the position.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -315,7 +315,8 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 <p>Running quarterbacks change everything about how an offense works. When a QB can take off and actually be a threat on the ground, defenses have to account for way more than just the passing game. It opens up space, forces linebackers to hesitate, and turns broken plays into big gains.</p>
-<p>Over the last few seasons, we’ve seen more quarterbacks lean into that dual-threat role, not just scrambling, but being designed runners who can pick up first downs and finish drives. And the guys who run the most aren’t just padding stats. They’re creating real scoring opportunities and keeping defenses constantly off balance. Looking at the top rushing quarterbacks in the league, it’s clear that mobility isn’t just a bonus anymore; it’s becoming a real part of what makes an offense dangerous.</p>
+<p>Over the last few seasons, we’ve seen more quarterbacks lean into that dual-threat role, not just scrambling, but being designed runners who can pick up first downs and finish drives. And the guys who run the most aren’t just padding stats. They’re creating real scoring opportunities and keeping defenses constantly off balance. Looking at the top rushing quarterbacks in the league, it’s clear that mobility isn’t just a bonus anymore; it’s becoming a real part of what makes an offense dangerous.<br>
+</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -366,11 +367,9 @@ font-style: inherit;">`</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">Y/A</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">`</span>), <span class="at" style="color: #657422;
+font-style: inherit;">`</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">color=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"#00338D"</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">color=</span>Player)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-11">  <span class="fu" style="color: #4758AB;
@@ -389,11 +388,9 @@ font-style: inherit;">`</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">Y/A</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">`</span>), <span class="at" style="color: #657422;
+font-style: inherit;">`</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">color=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"#004C54"</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">color=</span>Player)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-12">  <span class="fu" style="color: #4758AB;
@@ -412,11 +409,9 @@ font-style: inherit;">`</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">Y/A</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">`</span>), <span class="at" style="color: #657422;
+font-style: inherit;">`</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">color=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"#FFB612"</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">color=</span>Player)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-13">  <span class="fu" style="color: #4758AB;
@@ -435,11 +430,9 @@ font-style: inherit;">`</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">Y/A</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">`</span>), <span class="at" style="color: #657422;
+font-style: inherit;">`</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">color=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"#97233F"</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">color=</span>Player)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-14">  <span class="fu" style="color: #4758AB;
@@ -458,11 +451,9 @@ font-style: inherit;">`</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">Y/A</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">`</span>), <span class="at" style="color: #657422;
+font-style: inherit;">`</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">color=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"purple"</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">color=</span>Player)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-15">  <span class="fu" style="color: #4758AB;
@@ -480,18 +471,37 @@ background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-16">  <span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">scale_color_manual</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values=</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#004C54"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#FFB612"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#00338D"</span>,<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#97233F"</span>,<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"purple"</span>)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-17">  <span class="fu" style="color: #4758AB;
 background-color: null;
+font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-18">  <span class="fu" style="color: #4758AB;
+background-color: null;
 font-style: inherit;">labs</span>(</span>
-<span id="cb2-18">    <span class="at" style="color: #657422;
+<span id="cb2-19">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">title=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"How Consistently Do Quarterbacks Create Big Rushing Plays?"</span>,</span>
-<span id="cb2-19">    <span class="at" style="color: #657422;
+<span id="cb2-20">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -500,28 +510,28 @@ background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">explosive gains during the regular season."</span>,</span>
-<span id="cb2-20">    <span class="at" style="color: #657422;
+<span id="cb2-21">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Source: Pro Football Reference | By: Shaylin Kucera"</span>,</span>
-<span id="cb2-21">    <span class="at" style="color: #657422;
+<span id="cb2-22">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Week (Regular Season)"</span>,</span>
-<span id="cb2-22">    <span class="at" style="color: #657422;
+<span id="cb2-23">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">y=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Rushing Yards Per Attempt"</span></span>
-<span id="cb2-23">  ) <span class="sc" style="color: #5E5E5E;
+<span id="cb2-24">  ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb2-24">  <span class="fu" style="color: #4758AB;
+<span id="cb2-25">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme</span>(</span>
-<span id="cb2-25">    <span class="at" style="color: #657422;
+<span id="cb2-26">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -534,7 +544,7 @@ background-color: null;
 font-style: inherit;">face =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"bold"</span>),</span>
-<span id="cb2-26">    <span class="at" style="color: #657422;
+<span id="cb2-27">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">axis.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -543,7 +553,7 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">11</span>),</span>
-<span id="cb2-27">    <span class="at" style="color: #657422;
+<span id="cb2-28">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.subtitle =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -552,17 +562,17 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">10</span>),</span>
-<span id="cb2-28">    <span class="at" style="color: #657422;
+<span id="cb2-29">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">panel.grid.minor =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">element_blank</span>(),</span>
-<span id="cb2-29">    <span class="at" style="color: #657422;
+<span id="cb2-30">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"plot"</span></span>
-<span id="cb2-30">    )</span></code></pre></div></div>
+<span id="cb2-31">    )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -592,12 +602,42 @@ background-color: null;
 font-style: inherit;">15</span></span>
 <span id="cb3-4">  )</span>
 <span id="cb3-5"></span>
-<span id="cb3-6"><span class="fu" style="color: #4758AB;
+<span id="cb3-6">rushlabels <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> qb24rush <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|&gt;</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">filter</span>(Player <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Lamar Jackson"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|</span> Player <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Jalen Hurts"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|</span> Player <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Jayden Daniels"</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">|</span> Player <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">==</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Anthony Richardson"</span>)</span>
+<span id="cb3-7"></span>
+<span id="cb3-8"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">ggplot</span>() <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-7">  <span class="fu" style="color: #4758AB;
+<span id="cb3-9">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -622,7 +662,7 @@ background-color: null;
 font-style: inherit;">`</span>)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-8">  <span class="fu" style="color: #4758AB;
+<span id="cb3-10">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -633,7 +673,7 @@ background-color: null;
 font-style: inherit;">==</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Lamar Jackson"</span>), </span>
-<span id="cb3-9">                    <span class="fu" style="color: #4758AB;
+<span id="cb3-11">                    <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -652,7 +692,7 @@ background-color: null;
 font-style: inherit;">A/G</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">`</span>),</span>
-<span id="cb3-10">                    <span class="at" style="color: #657422;
+<span id="cb3-12">                    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -660,10 +700,10 @@ font-style: inherit;">"#241773"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">5</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">3</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-11">  <span class="fu" style="color: #4758AB;
+<span id="cb3-13">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -674,7 +714,7 @@ background-color: null;
 font-style: inherit;">==</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Jalen Hurts"</span>), </span>
-<span id="cb3-12">                    <span class="fu" style="color: #4758AB;
+<span id="cb3-14">                    <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -693,7 +733,7 @@ background-color: null;
 font-style: inherit;">A/G</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">`</span>),</span>
-<span id="cb3-13">                    <span class="at" style="color: #657422;
+<span id="cb3-15">                    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -701,10 +741,10 @@ font-style: inherit;">"#004C54"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">5</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">3</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-14">  <span class="fu" style="color: #4758AB;
+<span id="cb3-16">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -715,7 +755,7 @@ background-color: null;
 font-style: inherit;">==</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Jayden Daniels"</span>), </span>
-<span id="cb3-15">                    <span class="fu" style="color: #4758AB;
+<span id="cb3-17">                    <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -734,7 +774,7 @@ background-color: null;
 font-style: inherit;">A/G</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">`</span>),</span>
-<span id="cb3-16">                    <span class="at" style="color: #657422;
+<span id="cb3-18">                    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -742,10 +782,10 @@ font-style: inherit;">"#5A1414"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">5</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">3</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-17">  <span class="fu" style="color: #4758AB;
+<span id="cb3-19">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -756,7 +796,7 @@ background-color: null;
 font-style: inherit;">==</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Anthony Richardson"</span>), </span>
-<span id="cb3-18">                    <span class="fu" style="color: #4758AB;
+<span id="cb3-20">                    <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -775,7 +815,7 @@ background-color: null;
 font-style: inherit;">A/G</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">`</span>),</span>
-<span id="cb3-19">                    <span class="at" style="color: #657422;
+<span id="cb3-21">                    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -783,14 +823,14 @@ font-style: inherit;">"#002C5F"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">5</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">3</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-20">  <span class="fu" style="color: #4758AB;
+<span id="cb3-22">  <span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">geom_smooth</span>(<span class="at" style="color: #657422;
+font-style: inherit;">geom_text_repel</span>(<span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">data=</span>qb24rush, <span class="fu" style="color: #4758AB;
+font-style: inherit;">data=</span>rushlabels, <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -808,27 +848,25 @@ font-style: inherit;">`</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">A/G</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">`</span>), <span class="at" style="color: #657422;
+font-style: inherit;">`</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">method=</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"lm"</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">label=</span>Player)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-21">  <span class="fu" style="color: #4758AB;
+<span id="cb3-23">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-22">    <span class="fu" style="color: #4758AB;
+<span id="cb3-24">    <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">labs</span>(</span>
-<span id="cb3-23">    <span class="at" style="color: #657422;
+<span id="cb3-25">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Do Quarterbacks Who Run More... Actually Run More?"</span>,</span>
-<span id="cb3-24">    <span class="at" style="color: #657422;
+<span id="cb3-26">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -837,27 +875,27 @@ background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">Revealing which guys rely on their legs and which ones only run when they have to."</span>,</span>
-<span id="cb3-25">    <span class="at" style="color: #657422;
+<span id="cb3-27">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Source: Pro Football Reference | By: Shaylin Kucera"</span>,</span>
-<span id="cb3-26">    <span class="at" style="color: #657422;
+<span id="cb3-28">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Rushing Yards Per Game"</span>, </span>
-<span id="cb3-27">    <span class="at" style="color: #657422;
+<span id="cb3-29">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">y=</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Attempts Per Game"</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb3-28">  <span class="fu" style="color: #4758AB;
+<span id="cb3-30">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme</span>(</span>
-<span id="cb3-29">    <span class="at" style="color: #657422;
+<span id="cb3-31">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -870,7 +908,7 @@ background-color: null;
 font-style: inherit;">face =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"bold"</span>),</span>
-<span id="cb3-30">    <span class="at" style="color: #657422;
+<span id="cb3-32">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">axis.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -879,7 +917,7 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">11</span>),</span>
-<span id="cb3-31">    <span class="at" style="color: #657422;
+<span id="cb3-33">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.subtitle =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -888,17 +926,17 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">10</span>),</span>
-<span id="cb3-32">    <span class="at" style="color: #657422;
+<span id="cb3-34">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">panel.grid.minor =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">element_blank</span>(),</span>
-<span id="cb3-33">    <span class="at" style="color: #657422;
+<span id="cb3-35">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"plot"</span></span>
-<span id="cb3-34">    )</span></code></pre></div></div>
+<span id="cb3-36">    )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -996,23 +1034,36 @@ background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb4-17">  <span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">coord_flip</span>() <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">scale_fill_manual</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"red"</span>,<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"grey"</span>)) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb4-18">  <span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">coord_flip</span>() <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb4-19">  <span class="fu" style="color: #4758AB;
 background-color: null;
+font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb4-20">  <span class="fu" style="color: #4758AB;
+background-color: null;
 font-style: inherit;">labs</span>(</span>
-<span id="cb4-20">    <span class="at" style="color: #657422;
+<span id="cb4-21">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"The NFL's Most Dangerous Running QBs"</span>,</span>
-<span id="cb4-21">    <span class="at" style="color: #657422;
+<span id="cb4-22">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle=</span><span class="st" style="color: #20794D;
 background-color: null;
@@ -1021,27 +1072,27 @@ background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">attempts and finding the end zone, making defenses pay when they take off with the ball."</span>,</span>
-<span id="cb4-22">    <span class="at" style="color: #657422;
+<span id="cb4-23">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Source: Pro Football Reference | By: Shaylin Kucera"</span>,</span>
-<span id="cb4-23">    <span class="at" style="color: #657422;
+<span id="cb4-24">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">""</span>, </span>
-<span id="cb4-24">    <span class="at" style="color: #657422;
+<span id="cb4-25">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">y=</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">""</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb4-25">  <span class="fu" style="color: #4758AB;
+<span id="cb4-26">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme</span>(</span>
-<span id="cb4-26">    <span class="at" style="color: #657422;
+<span id="cb4-27">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -1054,7 +1105,7 @@ background-color: null;
 font-style: inherit;">face =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"bold"</span>),</span>
-<span id="cb4-27">    <span class="at" style="color: #657422;
+<span id="cb4-28">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">axis.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -1063,7 +1114,7 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">11</span>),</span>
-<span id="cb4-28">    <span class="at" style="color: #657422;
+<span id="cb4-29">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.subtitle =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -1072,17 +1123,17 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">10</span>),</span>
-<span id="cb4-29">    <span class="at" style="color: #657422;
+<span id="cb4-30">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">panel.grid.minor =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">element_blank</span>(),</span>
-<span id="cb4-30">    <span class="at" style="color: #657422;
+<span id="cb4-31">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"plot"</span></span>
-<span id="cb4-31">    )</span></code></pre></div></div>
+<span id="cb4-32">    )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
 <div>
